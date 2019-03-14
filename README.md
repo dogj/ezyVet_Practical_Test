@@ -14,5 +14,7 @@ Requirements:
 addtional:
 if landline is a mobile and mobile or other is empty, it will tranferred to a mobile or other  
 creteria is the landline start with 02 or 64 and longer than 8 (not so sure about that)
+
 my laptop is an Chinese laptop so I have to use charset="utf8mb4"
-data sampe is too small, probaly will have other problem during ETL, wrong data will be printed 
+
+data sample is too small, probaly will have other problem during ETL, wrong data will be printed 
